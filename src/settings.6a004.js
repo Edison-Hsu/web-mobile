@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/WWPoker.fire",orientation:"",jsList:[],bundleVers:{internal:"620a7",Career:"6226c",Club:"1fc97",Lobby:"70299",Me:"3e384",Menu:"c3687",resources:"a7b1b",main:"8616b"}};
